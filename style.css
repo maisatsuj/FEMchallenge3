@@ -34,17 +34,4 @@ img{
     align-items: center;
     border-radius: 20px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.attribution{
-    font-family: Outfit Thin;
-    justify-content: center;
-    align-self: center;
-    text-align: center;
-}
-
-a{
-    text-decoration: none;
-    color:black;
-    font-size: 15px;
-}
+}
